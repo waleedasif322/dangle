@@ -1,4 +1,5 @@
 # dangle.js
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/waleedasif322/dangle?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 A set of [AngularJS](http://angularjs.org/) directives that provide common [D3](http://d3js.org/) visualizations for [elasticsearch](http://www.elasticsearch.org/).
 
